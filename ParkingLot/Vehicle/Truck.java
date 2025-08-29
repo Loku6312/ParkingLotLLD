@@ -1,0 +1,10 @@
+package ParkingLot.Vehicle;
+
+public class Truck extends Vehicle{
+
+    public Truck(String licenseNumber) {
+        super(licenseNumber, VehicleSize.LARGE);
+        //TODO Auto-generated constructor stub
+    }
+    
+}
